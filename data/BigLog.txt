@@ -1,0 +1,431 @@
+["#0000000042000008#","You hit other","",1476785975]You hit Bartender for 1617 points of fire damage.
+["#0000000042000008#","You hit other","",1476785976]You hit Bartender for 1040 points of Brawling damage.
+["#0000000042000005#","You hit other with nano","",1476785976]You hit Bartender with nanobots for 1103 points of melee damage.
+["#0000000042000008#","You hit other","",1476785977]You hit Bartender for 1130 points of fire damage.
+["#0000000042000013#","Other misses","",1476785979]Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476785980]You hit Bartender for 1107 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476785980]You hit Bartender with nanobots for 577 points of melee damage.
+["#0000000042000005#","You hit other with nano","",1476785981]You hit Bartender with nanobots for 526 points of melee damage.
+["#0000000042000008#","You hit other","",1476785981]You hit Bartender for 968 points of fire damage.
+["#0000000042000013#","Other misses","",1476785982]Bartender tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476785982]You hit Bartender with nanobots for 1024 points of melee damage.
+["#0000000042000008#","You hit other","",1476785984]You hit Bartender for 1441 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476785984]You hit Bartender with nanobots for 823 points of fire damage.
+["#0000000042000008#","You hit other","",1476785984]Your damage shield hit Bartender for 6 points of damage.
+["#0000000042000006#","Me hit by monster","",1476785984]Bartender hit you for 303 points of projectile damage.
+["#0000000042000008#","You hit other","",1476785985]You hit Bartender for 3702 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476785985]You were healed for 69 points.
+["#0000000042000018#","Me Cast Nano","",1476785987]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476785987]Bartender tried to hit you, but missed!
+["#0000000042000018#","Me Cast Nano","",1476785988]Nano program executed successfully.
+["#0000000042000008#","You hit other","",1476785989]You hit Bartender for 1309 points of fire damage.
+["#0000000042000015#","Me got health","",1476785989]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476785989]Bartender tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476785990]You hit Bartender with nanobots for 1033 points of melee damage.
+["#0000000042000015#","Me got health","",1476785990]You were healed for 165 points.
+["#0000000042000008#","You hit other","",1476785991]You hit Bartender for 4067 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476785992]Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476785992]You hit Bartender for 3516 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476785993]You hit Bartender for 1899 points of fire damage.
+["#0000000042000013#","Other misses","",1476785995]Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476785996]You hit Bartender for 1225 points of fire damage.
+["#0000000042000013#","Other misses","",1476785997]Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476785997]You hit Bartender for 1721 points of fire damage.
+["#0000000042000008#","You hit other","",1476785999]You hit Bartender for 1942 points of fire damage.
+["#0000000042000013#","Other misses","",1476786000]Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786001]You hit Bartender for 3867 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786037]You hit Uncle Pumpkin-Head for 3818 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786051]You hit Uncle Pumpkin-Head for 3819 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786098]You hit Guard for 1278 points of fire damage.
+["#0000000042000008#","You hit other","",1476786099]You hit Guard for 1286 points of Brawling damage.
+["#0000000042000013#","Other misses","",1476786100]Guard tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786101]You hit Guard for 3498 points of fire damage. Critical hit!
+["#0000000042000005#","You hit other with nano","",1476786102]You hit Guard with nanobots for 621 points of melee damage.
+["#0000000042000008#","You hit other","",1476786102]You hit Guard for 1324 points of fire damage.
+["#0000000042000013#","Other misses","",1476786103]Guard tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786103]You hit Guard with nanobots for 393 points of melee damage.
+["#0000000042000005#","You hit other with nano","",1476786104]You hit Guard with nanobots for 1746 points of melee damage.
+["#0000000042000008#","You hit other","",1476786105]You hit Guard for 1771 points of fire damage.
+["#0000000042000013#","Other misses","",1476786105]Guard tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786106]You hit Guard with nanobots for 823 points of fire damage.
+["#0000000042000008#","You hit other","",1476786107]You hit Guard for 930 points of fire damage.
+["#0000000042000013#","Other misses","",1476786108]Guard tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786109]You hit Guard for 1780 points of fire damage.
+["#0000000042000018#","Me Cast Nano","",1476786109]Nano program executed successfully.
+["#0000000042000018#","Me Cast Nano","",1476786110]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476786110]Guard tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786111]You hit Guard with nanobots for 1033 points of melee damage.
+["#0000000042000005#","You hit other with nano","",1476786111]You hit Guard with nanobots for 1103 points of melee damage.
+["#0000000042000008#","You hit other","",1476786112]You hit Guard for 1330 points of fire damage.
+["#0000000042000008#","You hit other","",1476786114]You hit Guard for 2039 points of fire damage.
+["#0000000042000008#","You hit other","",1476786115]Your damage shield hit Guard for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786115]Guard hit you for 723 points of melee damage.
+["#0000000042000008#","You hit other","",1476786116]You hit Guard for 682 points of Brawling damage.
+["#0000000042000015#","Me got health","",1476786116]You were healed for 69 points.
+["#0000000042000008#","You hit other","",1476786116]You hit Guard for 2031 points of fire damage.
+["#0000000042000015#","Me got health","",1476786116]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786118]Guard tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786118]You hit Guard for 4063 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786118]You were healed for 69 points.
+["#0000000042000008#","You hit other","",1476786120]You hit Guard for 1661 points of fire damage.
+["#0000000042000015#","Me got health","",1476786120]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786120]Guard tried to hit you, but missed!
+["#0000000042000018#","Me Cast Nano","",1476786120]Nano program executed successfully.
+["#0000000042000015#","Me got health","",1476786121]You were healed for 82 points.
+["#0000000042000015#","Me got health","",1476786121]You were healed for 365 points.
+["#0000000042000008#","You hit other","",1476786122]You hit Guard for 4063 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476786123]Guard tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786124]You hit Guard for 1752 points of fire damage.
+["#0000000042000013#","Other misses","",1476786125]Guard tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786126]You hit Guard for 3863 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786241]You hit 34-I Helper for 3820 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786249]You hit 34-I Helper for 904 points of fire damage.
+["#0000000042000008#","You hit other","",1476786258]You hit Biofreak Carcass for 854 points of fire damage.
+["#0000000042000008#","You hit other","",1476786294]You hit 34-I Helper for 3820 points of fire damage. Critical hit!
+["#000000004200001b#","Vicinity Loot Messages","",1476786302]Blueslee looted <a href="itemref://85693/85693/1">Battered Flak Body Armor</a> from Remains of 34-I Helper.
+["#0000000042000008#","You hit other","",1476786756]You hit Kyr'Ozch Scout for 1081 points of fire damage.
+["#0000000042000008#","You hit other","",1476786758]You hit Kyr'Ozch Scout for 3520 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476786758]You hit Kyr'Ozch Scout for 975 points of fire damage.
+["#0000000042000008#","You hit other","",1476786760]Your damage shield hit Kyr'Ozch Scout for 6 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786760]Kyr'Ozch Scout hit you for 307 points of energy damage.
+["#0000000042000005#","You hit other with nano","",1476786760]You hit Kyr'Ozch Scout with nanobots for 1103 points of melee damage.
+["#0000000042000018#","Me Cast Nano","",1476786760]Executing Nano Program: Inner Peace, Outward Rage.
+["#0000000042000008#","You hit other","",1476786760]You hit Kyr'Ozch Scout for 3706 points of fire damage. Critical hit!
+["#0000000042000018#","Me Cast Nano","",1476786761]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476786761]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476786762]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786763]You hit Kyr'Ozch Scout for 1364 points of fire damage.
+["#0000000042000015#","Me got health","",1476786763]You were healed for 69 points.
+["#0000000042000008#","You hit other","",1476786765]You hit Kyr'Ozch Scout for 452 points of fire damage. Glancing hit.
+["#0000000042000005#","You hit other with nano","",1476786765]You hit Kyr'Ozch Scout with nanobots for 671 points of melee damage.
+["#0000000042000015#","Me got health","",1476786765]You were healed for 238 points.
+["#0000000042000013#","Other misses","",1476786766]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786766]You hit Kyr'Ozch Scout with nanobots for 487 points of melee damage.
+["#0000000042000008#","You hit other","",1476786767]You hit Kyr'Ozch Scout for 3910 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476786767]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786768]You hit Kyr'Ozch Scout with nanobots for 1708 points of melee damage.
+["#0000000042000008#","You hit other","",1476786769]You hit Kyr'Ozch Scout for 3910 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786769]You gained 2012 new Alien Experience Points.
+["#0000000042000008#","You hit other","",1476786777]You hit Kyr'Ozch Specialist for 1278 points of fire damage.
+["#0000000042000008#","You hit other","",1476786778]You hit Kyr'Ozch Specialist for 3570 points of Brawling damage.
+["#0000000042000005#","You hit other with nano","",1476786779]You hit Kyr'Ozch Specialist with nanobots for 1127 points of melee damage.
+["#0000000042000008#","You hit other","",1476786780]You hit Kyr'Ozch Specialist for 1584 points of fire damage.
+["#0000000042000013#","Other misses","",1476786782]Kyr'Ozch Specialist tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786782]You hit Kyr'Ozch Specialist for 1305 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476786783]You hit Kyr'Ozch Specialist with nanobots for 917 points of fire damage.
+["#0000000042000013#","Other misses","",1476786784]Kyr'Ozch Specialist tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786784]You hit Kyr'Ozch Specialist for 3756 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786785]You gained 2012 new Alien Experience Points.
+["#0000000042000004#","Other hit by nano","",1476786796]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000008#","You hit other","",1476786798]You hit Alien Larvae for 1471 points of fire damage.
+["#0000000042000013#","Other misses","",1476786799]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786799]You hit Alien Larvae for 923 points of Brawling damage.
+["#0000000042000005#","You hit other with nano","",1476786799]You hit Alien Larvae with nanobots for 1197 points of melee damage.
+["#0000000042000008#","You hit other","",1476786800]You hit Alien Larvae for 3756 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786800]Your damage shield hit Alien Larvae for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786800]Alien Larvae hit you for 430 points of poison damage.
+["#0000000042000008#","You hit other","",1476786802]You hit Alien Larvae for 3756 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786802]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786802]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786804]You hit Alien Larvae for 3756 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786805]You gained 2012 new Alien Experience Points.
+["#0000000042000018#","Me Cast Nano","",1476786805]Nano program executed successfully.
+["#0000000042000015#","Me got health","",1476786805]You were healed for 361 points.
+["#0000000042000004#","Other hit by nano","",1476786807]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000008#","You hit other","",1476786809]You hit Alien Larvae for 1175 points of fire damage.
+["#0000000042000013#","Other misses","",1476786809]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786811]You hit Alien Larvae for 1849 points of fire damage.
+["#0000000042000013#","Other misses","",1476786811]Alien Larvae tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786812]You hit Alien Larvae with nanobots for 719 points of melee damage.
+["#0000000042000008#","You hit other","",1476786813]You hit Alien Larvae for 1251 points of fire damage.
+["#0000000042000013#","Other misses","",1476786813]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786815]You hit Alien Larvae for 1393 points of fire damage.
+["#0000000042000013#","Other misses","",1476786815]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786815]You hit Alien Larvae for 3568 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476786817]You hit Alien Larvae for 1261 points of fire damage.
+["#0000000042000008#","You hit other","",1476786817]Your damage shield hit Alien Larvae for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786817]Alien Larvae hit you for 440 points of poison damage.
+["#0000000042000008#","You hit other","",1476786819]You hit Alien Larvae for 4119 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786819]You were healed for 69 points.
+["#000000004200000b#","Me got XP","",1476786820]You gained 2041 new Alien Experience Points.
+["#0000000042000015#","Me got health","",1476786825]You were healed for 367 points.
+["#0000000042000015#","Me got health","",1476786827]You were healed for 4 points.
+["#0000000042000004#","Other hit by nano","",1476786827]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000013#","Other misses","",1476786830]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786830]You hit Alien Larvae for 2012 points of fire damage.
+["#0000000042000013#","Other misses","",1476786832]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786832]You hit Alien Larvae for 1658 points of fire damage.
+["#0000000042000008#","You hit other","",1476786832]You hit Alien Larvae for 3572 points of Brawling damage.
+["#0000000042000005#","You hit other with nano","",1476786832]You hit Alien Larvae with nanobots for 1026 points of melee damage.
+["#0000000042000013#","Other misses","",1476786834]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786834]You hit Alien Larvae for 4275 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786834]You gained 1984 new Alien Experience Points.
+["#0000000042000008#","You hit other","",1476786847]You hit Kyr'Ozch Assault Medic for 1695 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476786848]You hit Kyr'Ozch Assault Medic for 3710 points of fire damage. Critical hit!
+["#0000000042000005#","You hit other with nano","",1476786850]You hit Kyr'Ozch Assault Medic with nanobots for 1033 points of melee damage.
+["#0000000042000013#","Other misses","",1476786850]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786851]You hit Kyr'Ozch Assault Medic for 1689 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476786851]You hit Kyr'Ozch Assault Medic with nanobots for 1103 points of melee damage.
+["#0000000042000013#","Other misses","",1476786852]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476786852]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786853]You hit Kyr'Ozch Assault Medic for 3710 points of fire damage. Critical hit!
+["#0000000042000005#","You hit other with nano","",1476786854]You hit Kyr'Ozch Assault Medic with nanobots for 393 points of melee damage.
+["#0000000042000013#","Other misses","",1476786854]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786855]Your damage shield hit Kyr'Ozch Scout for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786855]Kyr'Ozch Scout hit you for 816 points of melee damage.
+["#0000000042000015#","Me got health","",1476786855]You were healed for 365 points.
+["#0000000042000008#","You hit other","",1476786855]You hit Kyr'Ozch Assault Medic for 3710 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476786855]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786856]You hit Kyr'Ozch Assault Medic with nanobots for 1024 points of melee damage.
+["#0000000042000013#","Other misses","",1476786857]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786857]You hit Kyr'Ozch Assault Medic for 1275 points of fire damage.
+["#0000000042000015#","Me got health","",1476786857]You were healed for 69 points.
+["#0000000042000015#","Me got health","",1476786858]You were healed for 82 points.
+["#0000000042000005#","You hit other with nano","",1476786858]You hit Kyr'Ozch Assault Medic with nanobots for 823 points of fire damage.
+["#0000000042000008#","You hit other","",1476786858]Your damage shield hit Kyr'Ozch Assault Medic for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786858]Kyr'Ozch Assault Medic hit you for 234 points of melee damage.
+["#0000000042000013#","Other misses","",1476786859]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476786859]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786859]You hit Kyr'Ozch Assault Medic for 448 points of fire damage. Glancing hit.
+["#0000000042000015#","Me got health","",1476786859]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786861]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786861]You hit Kyr'Ozch Assault Medic for 884 points of fire damage.
+["#0000000042000015#","Me got health","",1476786861]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786862]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786863]Your damage shield hit Kyr'Ozch Scout for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786863]Kyr'Ozch Scout hit you for 849 points of melee damage.
+["#0000000042000008#","You hit other","",1476786864]You hit Kyr'Ozch Assault Medic for 3710 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786864]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786864]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476786865]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000015#","Me got health","",1476786865]You were healed for 366 points.
+["#0000000042000013#","Other misses","",1476786865]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786866]You hit Kyr'Ozch Assault Medic for 1431 points of fire damage.
+["#0000000042000008#","You hit other","",1476786867]Your damage shield hit Kyr'Ozch Scout for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786867]Kyr'Ozch Scout hit you for 502 points of melee damage.
+["#0000000042000008#","You hit other","",1476786867]You hit Kyr'Ozch Assault Medic for 657 points of Brawling damage.
+["#0000000042000015#","Me got health","",1476786867]You were healed for 69 points.
+["#0000000042000015#","Me got health","",1476786868]You were healed for 82 points.
+["#000000004200000b#","Me got XP","",1476786868]You gained 2012 new Alien Experience Points.
+["#0000000042000008#","You hit other","",1476786870]Your damage shield hit Kyr'Ozch Scout for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786870]Kyr'Ozch Scout hit you for 502 points of melee damage.
+["#0000000042000008#","You hit other","",1476786871]You hit Kyr'Ozch Scout for 3710 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476786872]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786873]You hit Kyr'Ozch Scout for 1683 points of fire damage.
+["#0000000042000015#","Me got health","",1476786873]You were healed for 69 points.
+["#0000000042000015#","Me got health","",1476786875]You were healed for 82 points.
+["#0000000042000015#","Me got health","",1476786875]You were healed for 364 points.
+["#0000000042000008#","You hit other","",1476786875]You hit Kyr'Ozch Scout for 1301 points of fire damage.
+["#0000000042000015#","Me got health","",1476786875]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786876]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000018#","Me Cast Nano","",1476786877]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476786878]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786878]You hit Kyr'Ozch Scout for 938 points of fire damage.
+["#0000000042000015#","Me got health","",1476786878]You were healed for 69 points.
+["#0000000042000015#","Me got health","",1476786878]You were healed for 82 points.
+["#0000000042000018#","Me Cast Nano","",1476786879]Executing Nano Program: Inner Peace, Outward Rage.
+["#0000000042000018#","Me Cast Nano","",1476786880]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476786880]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786881]You hit Kyr'Ozch Scout for 993 points of fire damage.
+["#0000000042000015#","Me got health","",1476786881]You were healed for 69 points.
+["#0000000042000008#","You hit other","",1476786883]You hit Kyr'Ozch Scout for 3804 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476786883]Kyr'Ozch Scout tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786883]You hit Kyr'Ozch Scout for 3614 points of Brawling damage.
+["#0000000042000015#","Me got health","",1476786883]You were healed for 69 points.
+["#0000000042000008#","You hit other","",1476786885]You hit Kyr'Ozch Scout for 3804 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786885]You were healed for 367 points.
+["#0000000042000008#","You hit other","",1476786886]You hit Kyr'Ozch Scout for 3804 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786886]You were healed for 69 points.
+["#000000004200000b#","Me got XP","",1476786887]You gained 2012 new Alien Experience Points.
+["#0000000042000015#","Me got health","",1476786888]You were healed for 82 points.
+["#0000000042000015#","Me got health","",1476786895]You were healed for 272 points.
+["#0000000042000008#","You hit other","",1476786896]You hit Kyr'Ozch Technician for 3804 points of fire damage. Critical hit!
+["#0000000042000005#","You hit other with nano","",1476786897]You hit Kyr'Ozch Technician with nanobots for 1197 points of melee damage.
+["#0000000042000008#","You hit other","",1476786898]You hit Kyr'Ozch Technician for 1118 points of fire damage.
+["#0000000042000008#","You hit other","",1476786900]You hit Kyr'Ozch Technician for 3804 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786900]You hit Kyr'Ozch Technician for 884 points of Brawling damage.
+["#0000000042000005#","You hit other with nano","",1476786900]You hit Kyr'Ozch Technician with nanobots for 487 points of melee damage.
+["#0000000042000005#","You hit other with nano","",1476786901]You hit Kyr'Ozch Technician with nanobots for 671 points of melee damage.
+["#0000000042000008#","You hit other","",1476786902]You hit Kyr'Ozch Technician for 3914 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786904]You hit Kyr'Ozch Technician for 1620 points of fire damage.
+["#0000000042000008#","You hit other","",1476786906]You hit Kyr'Ozch Technician for 1101 points of fire damage.
+["#0000000042000008#","You hit other","",1476786908]You hit Kyr'Ozch Technician for 3914 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476786910]You hit Kyr'Ozch Technician for 445 points of fire damage. Glancing hit.
+["#0000000042000008#","You hit other","",1476786912]You hit Kyr'Ozch Technician for 3914 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786912]You gained 2012 new Alien Experience Points.
+["#0000000042000018#","Me Cast Nano","",1476786913]Nano program executed successfully.
+["#0000000042000004#","Other hit by nano","",1476786917]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000013#","Other misses","",1476786921]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786922]You hit Alien Larvae for 756 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476786922]You hit Alien Larvae for 4123 points of fire damage. Critical hit!
+["#0000000042000005#","You hit other with nano","",1476786924]You hit Alien Larvae with nanobots for 1127 points of melee damage.
+["#0000000042000008#","You hit other","",1476786925]You hit Alien Larvae for 963 points of fire damage.
+["#0000000042000013#","Other misses","",1476786926]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786927]You hit Alien Larvae for 1095 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476786927]You hit Alien Larvae with nanobots for 917 points of fire damage.
+["#0000000042000013#","Other misses","",1476786928]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786929]You hit Alien Larvae for 1483 points of fire damage.
+["#0000000042000013#","Other misses","",1476786930]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786931]You hit Alien Larvae for 4123 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786931]You gained 1984 new Alien Experience Points.
+["#0000000042000004#","Other hit by nano","",1476786934]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000008#","You hit other","",1476786936]You hit Alien Larvae for 4121 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476786938]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786938]You hit Alien Larvae for 1306 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476786938]You hit Alien Larvae for 527 points of fire damage. Glancing hit.
+["#0000000042000005#","You hit other with nano","",1476786939]You hit Alien Larvae with nanobots for 1197 points of melee damage.
+["#0000000042000013#","Other misses","",1476786939]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786940]You hit Alien Larvae for 1993 points of fire damage.
+["#0000000042000013#","Other misses","",1476786941]Alien Larvae tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786942]You hit Alien Larvae with nanobots for 487 points of melee damage.
+["#0000000042000008#","You hit other","",1476786942]You hit Alien Larvae for 4121 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786943]You gained 2012 new Alien Experience Points.
+["#0000000042000004#","Other hit by nano","",1476786947]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000008#","You hit other","",1476786949]You hit Alien Larvae for 1495 points of fire damage.
+["#0000000042000013#","Other misses","",1476786950]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786951]You hit Alien Larvae for 2171 points of fire damage.
+["#0000000042000008#","You hit other","",1476786952]Your damage shield hit Alien Larvae for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786952]Alien Larvae hit you for 430 points of poison damage.
+["#0000000042000005#","You hit other with nano","",1476786953]You hit Alien Larvae with nanobots for 1597 points of melee damage.
+["#0000000042000013#","Other misses","",1476786954]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786954]You hit Alien Larvae for 3760 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786954]You were healed for 69 points.
+["#0000000042000015#","Me got health","",1476786955]You were healed for 361 points.
+["#0000000042000008#","You hit other","",1476786956]Your damage shield hit Alien Larvae for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786956]Alien Larvae hit you for 430 points of poison damage.
+["#0000000042000008#","You hit other","",1476786956]You hit Alien Larvae for 3760 points of fire damage. Critical hit!
+["#0000000042000015#","Me got health","",1476786956]You were healed for 69 points.
+["#000000004200000b#","Me got XP","",1476786957]You gained 2012 new Alien Experience Points.
+["#0000000042000015#","Me got health","",1476786960]You were healed for 82 points.
+["#0000000042000004#","Other hit by nano","",1476786963]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000008#","You hit other","",1476786965]You hit Alien Larvae for 976 points of fire damage.
+["#0000000042000015#","Me got health","",1476786965]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786965]Alien Larvae tried to hit you, but missed!
+["#0000000042000015#","Me got health","",1476786965]You were healed for 210 points.
+["#0000000042000008#","You hit other","",1476786967]You hit Alien Larvae for 888 points of fire damage. Glancing hit.
+["#0000000042000005#","You hit other with nano","",1476786968]You hit Alien Larvae with nanobots for 577 points of melee damage.
+["#0000000042000013#","Other misses","",1476786968]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786968]You hit Alien Larvae for 1191 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476786969]You hit Alien Larvae for 1338 points of fire damage.
+["#0000000042000013#","Other misses","",1476786970]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786971]You hit Alien Larvae for 3820 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476786972]Alien Larvae tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786973]You hit Alien Larvae with nanobots for 1103 points of melee damage.
+["#0000000042000008#","You hit other","",1476786973]You hit Alien Larvae for 1826 points of fire damage.
+["#000000004200000b#","Me got XP","",1476786974]You gained 1984 new Alien Experience Points.
+["#0000000042000004#","Other hit by nano","",1476786980]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000013#","Other misses","",1476786982]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786983]You hit Alien Larvae for 3663 points of fire damage. Critical hit!
+["#0000000042000018#","Me Cast Nano","",1476786984]Nano program executed successfully.
+["#0000000042000008#","You hit other","",1476786985]Your damage shield hit Alien Larvae for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786985]Alien Larvae hit you for 437 points of poison damage.
+["#0000000042000005#","You hit other with nano","",1476786986]You hit Alien Larvae with nanobots for 1033 points of melee damage.
+["#0000000042000015#","Me got health","",1476786986]You were healed for 437 points.
+["#0000000042000008#","You hit other","",1476786987]You hit Alien Larvae for 1257 points of fire damage.
+["#0000000042000008#","You hit other","",1476786987]You hit Alien Larvae for 1332 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476786987]Your damage shield hit Alien Larvae for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476786987]Alien Larvae hit you for 436 points of poison damage.
+["#0000000042000008#","You hit other","",1476786989]You hit Alien Larvae for 1099 points of fire damage.
+["#0000000042000015#","Me got health","",1476786989]You were healed for 69 points.
+["#0000000042000013#","Other misses","",1476786989]Alien Larvae tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476786990]You hit Alien Larvae with nanobots for 634 points of melee damage.
+["#0000000042000015#","Me got health","",1476786990]You were healed for 82 points.
+["#0000000042000008#","You hit other","",1476786990]You hit Alien Larvae for 916 points of fire damage.
+["#0000000042000013#","Other misses","",1476786991]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476786993]You hit Alien Larvae for 3663 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476786993]You gained 2041 new Alien Experience Points.
+["#0000000042000015#","Me got health","",1476786996]You were healed for 285 points.
+["#0000000042000004#","Other hit by nano","",1476786996]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000013#","Other misses","",1476786999]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787000]You hit Alien Larvae for 3666 points of fire damage. Critical hit!
+["#0000000042000008#","You hit other","",1476787002]You hit Alien Larvae for 1165 points of fire damage.
+["#0000000042000013#","Other misses","",1476787002]Alien Larvae tried to hit you, but missed!
+["#0000000042000018#","Me Cast Nano","",1476787003]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476787004]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787004]You hit Alien Larvae for 1611 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476787005]You hit Alien Larvae for 1399 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476787005]You hit Alien Larvae with nanobots for 823 points of fire damage.
+["#0000000042000013#","Other misses","",1476787006]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787006]You hit Alien Larvae for 801 points of fire damage.
+["#0000000042000013#","Other misses","",1476787008]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787009]You hit Alien Larvae for 3666 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476787009]You gained 2012 new Alien Experience Points.
+["#0000000042000008#","You hit other","",1476787020]You hit Kyr'Ozch Assault Medic for 1670 points of fire damage.
+["#0000000042000008#","You hit other","",1476787020]You hit Kyr'Ozch Assault Medic for 3520 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476787022]You hit Kyr'Ozch Assault Medic for 830 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476787022]You hit Kyr'Ozch Assault Medic with nanobots for 1374 points of melee damage.
+["#0000000042000013#","Other misses","",1476787022]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476787024]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787024]You hit Kyr'Ozch Assault Medic for 3710 points of fire damage. Critical hit!
+["#0000000042000018#","Me Cast Nano","",1476787026]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476787026]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476787027]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787027]You hit Kyr'Ozch Assault Medic for 620 points of fire damage. Glancing hit.
+["#0000000042000013#","Other misses","",1476787029]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787029]You hit Kyr'Ozch Assault Medic for 4071 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476787030]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787031]You hit Kyr'Ozch Assault Medic for 1481 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476787031]You hit Kyr'Ozch Assault Medic with nanobots for 1103 points of melee damage.
+["#0000000042000013#","Other misses","",1476787033]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787033]You hit Kyr'Ozch Assault Medic for 4071 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476787034]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787035]You hit Kyr'Ozch Assault Medic for 586 points of fire damage. Glancing hit.
+["#0000000042000013#","Other misses","",1476787036]Kyr'Ozch Assault Medic tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787036]You hit Kyr'Ozch Assault Medic for 729 points of Brawling damage.
+["#0000000042000008#","You hit other","",1476787037]Your damage shield hit Kyr'Ozch Assault Medic for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476787037]Kyr'Ozch Assault Medic hit you for 234 points of melee damage.
+["#0000000042000008#","You hit other","",1476787037]You hit Kyr'Ozch Assault Medic for 4071 points of fire damage. Critical hit!
+["#000000004200000b#","Me got XP","",1476787038]You gained 2012 new Alien Experience Points.
+["#0000000042000015#","Me got health","",1476787042]You were healed for 82 points.
+["#0000000042000004#","Other hit by nano","",1476787045]Alien Cocoon was attacked with nanobots for 11173 points of unknown damage.
+["#0000000042000015#","Me got health","",1476787045]You were healed for 152 points.
+["#0000000042000013#","Other misses","",1476787047]Alien Larvae tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476787048]You hit Alien Larvae for 4025 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476787049]Alien Larvae tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476787050]You hit Alien Larvae with nanobots for 1033 points of melee damage.
+["#0000000042000008#","You hit other","",1476787051]You hit Alien Larvae for 1450 points of fire damage.
+["#0000000042000008#","You hit other","",1476787051]Your damage shield hit Alien Larvae for 8 points of damage.
+["#0000000042000006#","Me hit by monster","",1476787051]Alien Larvae hit you for 438 points of poison damage.
+["#0000000042000015#","Me got health","",1476787052]You were healed for 82 points.
+["#0000000042000018#","Me Cast Nano","",1476787052]Nano program executed successfully.
+["#0000000042000008#","You hit other","",1476787053]You hit Alien Larvae for 4025 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476787054]Alien Larvae tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476787055]You hit Alien Larvae with nanobots for 873 points of melee damage.
+["#000000004200000b#","Me got XP","",1476787055]You gained 2041 new Alien Experience Points.
+["#0000000042000015#","Me got health","",1476787056]You were healed for 356 points.
+["#0000000042000002#","Me hit by nano","",1476787286]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787286]You were healed for 82 points.
+["#0000000042000015#","Me got health","",1476787286]You were healed for 118 points.
+["#0000000042000002#","Me hit by nano","",1476787286]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000018#","Me Cast Nano","",1476787290]Executing Nano Program: Phasefront Banshee - Yellow.
+["#0000000042000002#","Me hit by nano","",1476787291]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000018#","Me Cast Nano","",1476787292]Nano program executed successfully.
+["#0000000042000015#","Me got health","",1476787295]You were healed for 82 points.
+["#0000000042000015#","Me got health","",1476787296]You were healed for 118 points.
+["#0000000042000002#","Me hit by nano","",1476787296]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000002#","Me hit by nano","",1476787301]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787305]You were healed for 82 points.
+["#0000000042000015#","Me got health","",1476787306]You were healed for 118 points.
+["#0000000042000002#","Me hit by nano","",1476787306]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000002#","Me hit by nano","",1476787311]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787316]You were healed for 200 points.
+["#0000000042000002#","Me hit by nano","",1476787316]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000002#","Me hit by nano","",1476787321]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787326]You were healed for 200 points.
+["#0000000042000002#","Me hit by nano","",1476787326]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787326]You were healed for 82 points.
+["#0000000042000002#","Me hit by nano","",1476787331]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787336]You were healed for 118 points.
+["#0000000042000002#","Me hit by nano","",1476787336]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787336]You were healed for 82 points.
+["#0000000042000002#","Me hit by nano","",1476787341]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787346]You were healed for 118 points.
+["#0000000042000002#","Me hit by nano","",1476787346]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787346]You were healed for 82 points.
+["#0000000042000002#","Me hit by nano","",1476787351]You were attacked with nanobots for 100 points of poison damage.
+["#0000000042000015#","Me got health","",1476787356]You were healed for 118 points.
+["#0000000e04b92007#","Unionraid","Blueslee",1476787513]dd_ranking
+["#0000000040000002#","Vicinity","Blueslee",1476787543]dd_ranking
+["#0000000040000002#","Vicinity","Blueslee",1476787609]dd_pause
+["#0000000040000002#","Vicinity","Blueslee",1476787618]dd_cont
+["#0000000040000002#","Vicinity","Blueslee",1476787634]dd_detail Blueslee

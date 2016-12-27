@@ -1,0 +1,75 @@
+["#0000000040000001#","System","",1476788831]Changing area. Please wait.
+["#0000000040000001#","System","",1476788832]Entering new area.
+["#0000000040000001#","System","",1476788848]Attacking OT Bartender...
+["#0000000042000008#","You hit other","",1476788850]You hit OT Bartender for 743 points of fire damage. Glancing hit.
+["#0000000040000002#","Vicinity","",1476788850]OT Bartender: You will pay with your life for that, Blueslee!
+["#0000000040000001#","System","",1476788850]Attacked by OT Bartender!
+["#0000000042000008#","You hit other","",1476788851]You hit OT Bartender for 1325 points of Brawling damage.
+["#0000000042000005#","You hit other with nano","",1476788851]You hit OT Bartender with nanobots for 1103 points of melee damage.
+["#0000000040000002#","Vicinity","",1476788851]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000040000002#","Vicinity","",1476788851]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000042000005#","You hit other with nano","",1476788852]You hit OT Bartender with nanobots for 1033 points of melee damage.
+["#0000000040000002#","Vicinity","",1476788852]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000042000008#","You hit other","",1476788853]You hit OT Bartender for 1469 points of fire damage.
+["#0000000042000013#","Other misses","",1476788853]OT Bartender tried to hit you, but missed!
+["#0000000042000005#","You hit other with nano","",1476788854]You hit OT Bartender with nanobots for 579 points of melee damage.
+["#0000000040000001#","System","",1476788854]You successfully perform a Dragonfire attack.
+["#0000000040000002#","Vicinity","",1476788854]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000040000001#","System","",1476788854]You are already running this action!
+["#0000000042000005#","You hit other with nano","",1476788855]You hit OT Bartender with nanobots for 393 points of melee damage.
+["#0000000040000001#","System","",1476788855]You successfully perform a Big Smash attack.
+["#0000000040000002#","Vicinity","",1476788855]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000042000008#","You hit other","",1476788855]You hit OT Bartender for 1635 points of fire damage.
+["#0000000042000005#","You hit other with nano","",1476788856]You hit OT Bartender with nanobots for 1026 points of melee damage.
+["#0000000040000001#","System","",1476788856]You successfully perform a Chi Conductor attack.
+["#0000000040000002#","Vicinity","",1476788856]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000042000013#","Other misses","",1476788856]OT Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476788857]You hit OT Bartender for 3737 points of fire damage. Critical hit!
+["#0000000042000005#","You hit other with nano","",1476788858]You hit OT Bartender with nanobots for 823 points of fire damage.
+["#0000000040000001#","System","",1476788858]You successfully perform Nano Feast.
+["#0000000040000002#","Vicinity","",1476788858]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000042000013#","Other misses","",1476788859]OT Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476788859]You hit OT Bartender for 1329 points of fire damage.
+["#0000000040000001#","System","",1476788861]You successfully perform Moonmist..
+["#0000000042000018#","Me Cast Nano","",1476788861]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476788862]OT Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476788862]You hit OT Bartender for 4105 points of fire damage. Critical hit!
+["#0000000042000013#","Other misses","",1476788864]OT Bartender tried to hit you, but missed!
+["#0000000040000001#","System","",1476788865]Brawling skill available.
+["#0000000042000013#","Other misses","",1476788867]OT Bartender tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476788870]OT Bartender tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476788873]OT Bartender tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476788875]OT Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476788878]Your damage shield hit OT Bartender for 6 points of damage.
+["#0000000042000006#","Me hit by monster","",1476788878]OT Bartender hit you for 260 points of projectile damage.
+["#0000000042000008#","You hit other","",1476788881]Your damage shield hit OT Bartender for 6 points of damage.
+["#0000000042000006#","Me hit by monster","",1476788881]OT Bartender hit you for 260 points of projectile damage.
+["#0000000042000015#","Me got health","",1476788881]You were healed for 362 points.
+["#0000000042000018#","Me Cast Nano","",1476788882]Executing Nano Program: Greater Team Restore Essence.
+["#0000000042000015#","Me got health","",1476788882]You were healed for 82 points.
+["#0000000042000015#","Me got health","",1476788883]You were healed for 76 points.
+["#0000000042000018#","Me Cast Nano","",1476788883]Nano program executed successfully.
+["#0000000042000013#","Other misses","",1476788883]OT Bartender tried to hit you, but missed!
+["#0000000040000001#","System","",1476788885]Martial Arts skill available.
+["#0000000042000013#","Other misses","",1476788887]OT Bartender tried to hit you, but missed!
+["#0000000042000008#","You hit other","",1476788889]Your damage shield hit OT Bartender for 6 points of damage.
+["#0000000042000006#","Me hit by monster","",1476788889]OT Bartender hit you for 260 points of projectile damage.
+["#0000000042000018#","Me Cast Nano","",1476788890]Executing Nano Program: Enlightened Healing Touch.
+["#0000000042000015#","Me got health","",1476788890]You were healed for 260 points.
+["#0000000042000018#","Me Cast Nano","",1476788890]Nano program executed successfully.
+["#0000000040000001#","System","",1476788890]Brawler available.
+["#0000000042000013#","Other misses","",1476788892]OT Bartender tried to hit you, but missed!
+["#0000000042000013#","Other misses","",1476788895]OT Bartender tried to hit you, but missed!
+["#0000000040000001#","System","",1476788895]Attacking OT Bartender...
+["#0000000040000002#","Vicinity","",1476788895]OT Bartender: Get lost while you still can, Blueslee! You're next!
+["#0000000042000008#","You hit other","",1476788896]You hit OT Bartender for 3905 points of fire damage. Critical hit!
+["#0000000040000001#","System","",1476788897]You can loot these remains.
+["#0000000040000001#","System","",1476788901]Nanoprogram Moonmist terminated...
+["#0000000040000001#","System","",1476788913]Dimach (Soul Attack) skill available.
+["#0000000040000001#","System","",1476788915]Spiritual Master available.
+["#0000000040000001#","System","",1476788922]Spiritual Master available.
+["#0000000040000001#","System","",1476788924]Champion of Nano Combat available.
+["#0000000040000001#","System","",1476788936]Changing area. Please wait.
+["#0000000040000001#","System","",1476788938]Entering 'Rome Blue district'
+["#0000000040000001#","System","",1481063566]Timed logout started. This will take 30 seconds.
+["#0000000040000001#","System","",1481063589]Pressing alt+f4 or typing /quit once more will lead to fast quit of game. Your character will remain in game world for some minutes.

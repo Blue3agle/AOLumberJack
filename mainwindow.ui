@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>904</width>
+    <height>568</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="QMdiArea" name="playground"/>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QTreeWidget" name="ToonList">
+        <property name="maximumSize">
+         <size>
+          <width>150</width>
+          <height>16777215</height>
+         </size>
+        </property>
+        <column>
+         <property name="text">
+          <string>1</string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>BlueEagle</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Metametameta</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Harms</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Heals</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Hazes</string>
+           </property>
+          </item>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>CoolBeer</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Kadrya</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Falixmonia</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Falixmonia</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Falixmonia</string>
+           </property>
+          </item>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>TigerTheCruel</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Xantrish</string>
+          </property>
+          <item>
+           <property name="text">
+            <string>Carlo</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>Bodyguard</string>
+           </property>
+          </item>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Biofreak Carcas</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Leet</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>I-34 Helper</string>
+         </property>
+        </item>
+       </widget>
+      </item>
+      <item>
+       <widget class="QListWidget" name="moduleList">
+        <property name="minimumSize">
+         <size>
+          <width>150</width>
+          <height>0</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>150</width>
+          <height>16777215</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>904</width>
+     <height>18</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>ToonList</sender>
+   <signal>currentItemChanged(QTreeWidgetItem*,QTreeWidgetItem*)</signal>
+   <receiver>playground</receiver>
+   <slot>activateNextSubWindow()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>818</x>
+     <y>164</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>372</x>
+     <y>290</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
